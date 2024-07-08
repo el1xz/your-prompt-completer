@@ -5,7 +5,7 @@
 
 1. Установите расширение **[Tampermonkey](https://www.tampermonkey.net/)**
 2. **[«Установите Скрипт»](https://raw.githubusercontent.com/el1xz/your-prompt-completer/main/AutoComplete.js)**
-3. Либо **[«скопируйте»](https://github.com/el1xz/your-prompt-completer/main/AutoComplete.js)** его и вставьте после нажатия на кнопку "Создать новый скрипт"
+3. Либо **[«скопируйте»](https://github.com/el1xz/your-prompt-completer/blob/main/AutoComplete.js)** его и вставьте после нажатия на кнопку "Создать новый скрипт"
 
 > [!WARNING]
 > Если вы пользуетесь Tampermonkey 5.2.0+, не забудьте включить режим разработчика в браузере или используйте Tampermonkey MV2
